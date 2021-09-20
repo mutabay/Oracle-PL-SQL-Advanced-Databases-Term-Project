@@ -7,6 +7,6 @@ The main reason I chose Oracle Database is that you have absolutely access to ev
 I can say that there are inconsistencies in the modeling at the beginning of the project. 
 For Assignment 1, I modeled Bike Dealer Project after the 3rd Assignment Bicycles changed with Cars to put more fields and data.
 
-All queries used and needed throughout the project are in the ADB_A2.sql file. A little bit of complexity has been removed with comments.
+All queries used and needed throughout the project are in the ADB_A2.sql file. A little bit of complexity has been solved with comments.
 
 
