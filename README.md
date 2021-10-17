@@ -1,5 +1,6 @@
+# ORACLE PL/SQL Project
 # Advanced-Databases-Car-Dealer-Project
-Advanced Databases Project using Oracle SQL
+Advanced Databases Project using Oracle PL/SQL
 
 The project I made with Oracle Database to understand the features of Advanced Databases such as query optimization, indexing, partitioning, in memory-columnar storage etc.
 The main reason I chose Oracle Database is that you have absolutely access to everything. When these features are really understood, they become a miraculous tool.
